@@ -1,4 +1,4 @@
-h1 {
+main h1 {
     font-size: 60px;
     color: white;
     font-family:"Open Sans Condensed", sans-serif;
@@ -12,4 +12,12 @@ h2 {
 body {
     font-family: "Crimson Text", serif;
     background-color: #f2fffc
+}
+p {
+    text-align: justify;
+}
+footer {
+    font-size: 22px;
+    color: white;
+    background-color: black;
 }
