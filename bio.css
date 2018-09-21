@@ -1,11 +1,15 @@
 h1 {
     font-size: 60px;
     color: white;
-    font-family:"Arial", sans-serif;
+    font-family:"Open Sans Condensed", sans-serif;
     text-align: center;
     background-color: chocolate;
 }
 h2 {
     font-size: 40px;
-    font-family:"Open Sans", sans-serif;
+    font-family:"Open Sans Condensed", sans-serif;
+}
+body {
+    font-family: "Crimson Text", serif;
+    background-color: #f2fffc
 }
