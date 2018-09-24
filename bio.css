@@ -32,3 +32,37 @@ blockquote {
     margin: 0%;
     box-sizing: border-box;
 }
+strong {
+    font-weight: 600px;
+    
+}
+em {
+    font-style: italic;
+}
+img {
+    padding: 10px;
+    margin: 0%;
+}
+aside {
+    background-color: indigo;
+    color: #f2fffc;
+    text-align: center;
+    padding: 20px;
+    font-family: "Open San Condensed", sans-serif;
+}
+aside li {
+    display: inline-block;
+}
+nav h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+nav a {
+    color: inherit;
+    display: inline-block;
+}
+footer {
+    background-color: #000;
+    color: #f2fffc;
+    padding: 20px;
+}
