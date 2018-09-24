@@ -4,6 +4,8 @@ main h1 {
     font-family:"Open Sans Condensed", sans-serif;
     text-align: center;
     background-color: chocolate;
+    padding: 20px;
+    margin: 0%;
 }
 h2 {
     font-size: 40px;
@@ -15,9 +17,18 @@ body {
 }
 p {
     text-align: justify;
+    margin: 20px 0px;
 }
 footer {
     font-size: 22px;
     color: white;
     background-color: black;
+}
+blockquote {
+    background-color: darkgray;
+    padding: 16px;
+    border: 10px solid #c2c2c2;
+    width: 250px;
+    margin: 0%;
+    box-sizing: border-box;
 }
